@@ -1,157 +1,111 @@
 
-⸻
-
-🚀 Hey, sono Filippo222
-
-🧠 Full Stack Developer • AI Specialist • Innovator
-
 <div align="center">
 
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Rxhiizz&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20Artisan&descSize=20&descAlignY=70)
 
-“Trasformo idee in esperienze digitali attraverso codice elegante e intelligenza artificiale” 💡
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1200&color=FF6B9D&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%22Logic+is+the+architecture+of+reality%22;%F0%9F%92%BB+Full+Stack+Developer+%26+AI+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
-
-
-⸻
-
-💫 Chi Sono
-
-🧩 Sviluppatore Full Stack con passione per l’intelligenza artificiale e l’innovazione tecnologica.
-Amo costruire prodotti digitali scalabili, performanti e con una UX impeccabile.
-	•	🧠 Specializzato in integrazione AI e sviluppo SaaS
-	•	⚙️ Focus su architetture Serverless, Microservizi e Cloud Native
-	•	☕ Trasformo il caffè in codice e il codice in valore reale.
-
-⸻
-
-⚙️ Tech Stack
+---
 
 <div align="center">
 
+### 🛠️ **Tech Arsenal**
 
-💻 Linguaggi	⚡ Framework & Librerie	☁️ DevOps & Cloud	🤖 AI & Data
-			
+[![JavaScript](https://skillicons.dev/icons?i=js,ts,py,rust)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vue,next,tailwind)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,docker,aws,figma)](https://skillicons.dev)
 
 </div>
 
-
-
-⸻
-
-🌟 Progetti in Evidenza
-
-🤖 222 Bot – WhatsApp Automation AI￼
-
-Piattaforma SaaS per automazioni WhatsApp Business con AI integrata
-
-	•	📩 Oltre 50.000 messaggi gestiti al giorno
-	•	⚙️ Uptime 99.9%
-	•	🤖 Risposte automatiche AI-powered
-
-
-⸻
-
-🛍 E-Commerce AI Assistant￼
-
-Assistente virtuale con raccomandazioni intelligenti e analisi predittiva
-
-	•	🧠 Raccomandazioni prodotto AI
-	•	💬 Chatbot multilingua
-	•	📊 Analisi vendite real-time
-
-⸻
-
-🩺 HealthTech Analytics Platform￼
-
-Piattaforma di analisi mediche basata su machine learning
-
-	•	🧩 Frontend: React + TypeScript
-	•	⚙️ Backend: Node.js + FastAPI
-	•	🧠 AI: TensorFlow + Scikit-learn
-	•	💾 DB: MongoDB + Redis
-
-⸻
-
-📈 Statistiche GitHub
+---
 
 <div align="center">
 
+### 🚀 **Active Projects**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### 🧠 **NeuroCore**
+**AI Framework**  
+![](https://img.shields.io/badge/Status-Experimental-ff6b6b?style=flat-square)
+![](https://img.shields.io/badge/Version-0.8.2-blue?style=flat-square)
+
+</td>
+<td width="33%" align="center">
+
+#### ⚡ **QuantumUI**
+**React Library**  
+![](https://img.shields.io/badge/Status-Beta-ffd93d?style=flat-square)
+![](https://img.shields.io/badge/Version-1.3.0-orange?style=flat-square)
+
+</td>
+<td width="33%" align="center">
+
+#### 🔐 **CipherVault**
+**Security Suite**  
+![](https://img.shields.io/badge/Status-Stable-4ecdc4?style=flat-square)
+![](https://img.shields.io/badge/Version-2.1.5-green?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </div>
 
-
-
-⸻
-
-🎨 Filosofia di Sviluppo
-
-💡 Scrivere codice non è solo logica: è anche estetica, chiarezza e valore.
-	•	✨ Clean Code prima di tutto
-	•	⚡ Performance come feature
-	•	🧱 Scalabilità come mentalità
-	•	🔒 Sicurezza come requisito
-	•	🧭 Innovazione continua
-
-⸻
-
-🧭 Esperienza & Metriche
-	•	💼 5+ anni nello sviluppo Full Stack
-	•	🌍 10+ paesi serviti
-	•	🚀 50+ progetti completati con successo
-	•	👥 100k+ utenti attivi sulle piattaforme sviluppate
-
-Metodologie: Agile • TDD • CI/CD • Microservizi • Cloud Native
-
-⸻
-
-📝 Blog & Articoli
-
-🧩 Titolo	💡 Categoria	📅 Anno
-Costruire AI API Scalabili￼	AI / Backend	2024
-React Performance Masterclass￼	Frontend	2024
-Microservices in Production￼	DevOps	2024
-
-
-⸻
-
-🏆 Certificazioni
-
-
-⸻
-
-🤝 Collaborazioni & Contatti
-
-💬 Sempre aperto a collaborazioni su:
-	•	Progetti AI/ML
-	•	SaaS innovativi
-	•	Applicazioni cross-platform
-	•	Startup Tech-Driven
+---
 
 <div align="center">
+
+### 🌐 **Connect With Me**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rxhiizz.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rxhiizz)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rxhiizz)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rxhiizz)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 **Development Analytics**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rxhiizz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxhiizz&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rxhiizz&theme=radical&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FF6B9D&fire=ff6b6b&currStreakLabel=ffffff"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 **Weekly Development Breakdown**
+
+TypeScript    🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣⬜    75%
+Python        🟡🟡🟡🟡🟡🟡🟡🟡⬜⬜⬜⬜⬜⬜    45%
+Rust          🟠🟠🟠🟠🟠🟠⬜⬜⬜⬜⬜⬜⬜⬜    30%
+React         🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵⬜⬜⬜⬜    65%
 
 
 </div>
 
-
-
-⸻
-
+---
 
 <div align="center">
 
+### **ARTISAN OF CODE**
 
-✨ “Il codice è poesia, l’innovazione è la mia musa.” ✨
+<img src="https://i.ibb.co/0jL4y7p/rxhiizz-avatar.png" width="220" alt="Rxhiizz Avatar" style="border-radius: 50%"/>
 
-⭐ Se ti piacciono i miei progetti, lascia una stella!
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Rxhiizz&color=FF6B9D&style=for-the-badge" alt="Profile Views"/>
 
-</div>
-
-
-
-⸻
-
-📄 CV Completo￼ • 🎥 Video Portfolio￼ • 📱 App Mobile￼
-
-⸻
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn&fontAlignY=65)
